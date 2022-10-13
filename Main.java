@@ -17,7 +17,9 @@ class Main{
         product p = new product();
 
         p.product(0, 0);
+
         p.product(0, 0,0);
+        
         p.product(0.0, 0.0);
     }
 }
